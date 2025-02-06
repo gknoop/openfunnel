@@ -4,6 +4,8 @@ OpenFunnel is a concept for a sales funnel that can be self-hosted and thus owne
 Roadmap:
 - Develop initial sales funnel as proof of concept
 - Decide on stack to use (considering ReactJS with Firebase or Supabase)
+- Develop CRM with customizable fields to fit requirements of owner
+- Develop CMS for easy content updates on frontend and creation of new pages
 - Create admin panel for backend of site
 - Genericize template to use replicable components
 - Implement customization features to update theme on frontend in a way that's simple for common users
